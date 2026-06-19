@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+bin/
+
+# Locally installed packages
+numpy/
+numpy.libs/
+numpy-*.dist-info/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Editor / OS
+.vscode/
+.DS_Store
